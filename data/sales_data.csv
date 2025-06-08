@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,Sales,Expenses,Date,Region
+1,C001,Smartphone,Mobiles,45000,35000,2024-03-15,South
+2,C002,Laptop,Computers,70000,50000,2024-03-17,North
+3,C003,Headphones,Accessories,2000,1200,2024-03-20,East
+4,C001,Tablet,Mobiles,15000,11000,2024-04-01,South
+5,C004,Monitor,Computers,18000,14000,2024-04-10,West
+6,C005,Camera,Accessories,25000,19000,2024-04-15,North
+7,C002,Smartwatch,Accessories,10000,6000,2024-05-02,South
+8,C006,Printer,Computers,22000,18000,2024-05-05,East
+9,C001,Laptop,Computers,70000,52000,2024-05-18,South
+10,C007,Smartphone,Mobiles,48000,36000,2024-05-21,West
